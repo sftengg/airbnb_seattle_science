@@ -1,18 +1,19 @@
 Data Science Blogpost:
 ----------------------
-Project Motivation and Objective
-Analyzing Seattle Airbnb data and answering some fundamental questions about Airbnb prices, neighborhood and most significant locations in Seattle gave an incredible start into datasciece world; how the process would look like and what is involved to complete it. And for this analysis, it uses the CRISP-DM method to answer the below three questions.
+Project Motivation and Objective => Analyzing Seattle Airbnb data and answering some fundamental questions about Airbnb prices, neighborhood and most significant locations in Seattle gave an incredible start into datasciece world; how the process would look like and what is involved to complete it. And for this analysis, it uses the CRISP-DM method to answer the below three questions.
 
 Part 1  : Analyze price over other groups of features
 Part 2  : How is price varying during various times of the year
 Part 3  : Regress the amicable features over the price using linear model and find out the r-squared.
 
 
-Installation:
+Installation =>
 
-git clone 
+git clone https://github.com/sftengg/airbnb_seattle_datascience.git
+cd airbnd_seattle_datascience
 
-Usage:
+
+Usage => There are three datasets that provide a comprehensive view about the various property listings, reviews from 2011 onwards to 2016 in Seattle, Washington.
 
 File Descriptions: 
 ------------------
