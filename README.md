@@ -1,10 +1,10 @@
 # Seattle Airbnb Data Analysis
 
-Analyzed Seattle Airbnb dataset using python (ipython notebook) libraries like Numpy, Pandas, Matplotlib, Seaborn, statsmodels, Sklearn.
+Analyzed Seattle Airbnb dataset using python (ipython notebook) libraries like Numpy, Pandas, Matplotlib, Seaborn, Sklearn.
 
-## Motivation and Objective
+## Objective
 
-Project is part of the Data Scientist Nanodegree program and the objective of this analysis is to find out various aspects that are influencing the prices at Airbnb rentals. How does seasonality effect the pricing and also coming up with a model that help  to predict the price based on the chosen features. And CRISP-DM (Cross-industry standard process for data mining) method has been followed for this study.
+Project is part of a Data Scientist Nanodegree program and the objective of this analysis is to find out various aspects that are influencing the prices at Airbnb rentals? How does seasonality effect the pricing? and then come up with a model that will help predict the price for the future listings. And CRISP-DM (Cross-industry standard process for data mining) method has been followed for this study.
 
 ## What is included
 
